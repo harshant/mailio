@@ -1,0 +1,11 @@
+{
+  "name": "haraka_local",
+  "description": "An SMTP Server",
+  "version": "0.0.1",
+  "dependencies": {
+    "util": "0.11.1",
+    "axios": "^0.18.0"
+  },
+  "repository": "",
+  "license": "MIT"
+}
